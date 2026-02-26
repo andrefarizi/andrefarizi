@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="middle" width="55%">
 
 ```python
 class Andre:
@@ -39,8 +39,8 @@ me.say_hi()
 ```
 
 </td>
-<td valign="top" width="40%" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" alt="Hacker GIF"/>
+<td valign="middle" width="45%" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="340" alt="Hacker GIF"/>
 </td>
 </tr>
 </table>
