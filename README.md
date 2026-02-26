@@ -85,8 +85,8 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andrefarizi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=06d6a0&icon_color=00b4d8&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrefarizi&theme=radical&hide_border=true&background=0d1117&ring=06d6a0&fire=00b4d8&currStreakLabel=06d6a0" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andrefarizi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=06d6a0&icon_color=00b4d8&text_color=ffffff&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=andrefarizi&theme=radical&hide_border=true&background=0d1117&ring=06d6a0&fire=00b4d8&currStreakLabel=06d6a0" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -95,7 +95,7 @@ me.say_hi()
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrefarizi&bg_color=0d1117&color=06d6a0&line=00b4d8&point=ffffff&area_color=06d6a0&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrefarizi&bg_color=0d1117&color=06d6a0&line=00b4d8&point=ffffff&area_color=06d6a0&area=true&hide_border=true&custom_title=Andre%20Al%20Farizi%20Sebayang%27s%20Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 ---
