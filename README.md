@@ -68,19 +68,6 @@ me.say_hi()
 
 ---
 
-<!-- Pacman Contribution Graph -->
-## 👾 Pacman Eating My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph.svg"/>
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph-dark.svg" width="100%"/>
-  </picture>
-</div>
-
----
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
@@ -101,7 +88,7 @@ me.say_hi()
 ---
 
 <!-- Snake Animation -->
-## 🐍 Snake Eating My Contributions
+## 🐍 My Contributions
 
 <div align="center">
   <picture>
