@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:06d6a0&height=220&section=header&text=Andre%20Al%20Farizi%20Sebayang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=18&descAlignY=55&descColor=06d6a0"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%91%8B+Halo!+Saya+Andre+Al+Farizi+Sebayang;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%91%8B+Halo!+Saya+Andre+Al+Farizi+Sebayang;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=andrefarizi&label=Profile%20views&color=06d6a0&style=for-the-badge" />
@@ -106,7 +106,7 @@ me.say_hi()
   
 ### 🤝 Let's Connect!
 
-<a href="https://github.com/andrefarizi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
 
