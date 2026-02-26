@@ -14,21 +14,36 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ```python
 class Andre:
     def __init__(self):
         self.name = "Andre Al Farizi Sebayang"
         self.role = "Full Stack Developer"
-        self.languages = ["Python", "Java", "PHP", "JavaScript", "C++", "C"]
+        self.languages = [
+            "Python", "Java", "PHP",
+            "JavaScript", "C++", "C"
+        ]
         self.frameworks = ["Laravel", "Tailwind CSS"]
         self.currently_learning = "Always something new! 🚀"
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together!")
+        print("Thanks for dropping by!")
+        print("Let's build something awesome!")
 
 me = Andre()
 me.say_hi()
 ```
+
+</td>
+<td valign="top" width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
 
 ---
 
