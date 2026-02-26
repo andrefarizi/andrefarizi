@@ -14,7 +14,7 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-<table border="0" cellspacing="0" cellpadding="15">
+<table border="0" rules="none" frame="void" cellspacing="0" cellpadding="15">
 <tr>
 <td valign="middle">
 
