@@ -68,24 +68,14 @@ me.say_hi()
 
 ---
 
-<!-- Pacman Line Divider -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
-</div>
-
----
-
-<!-- Pacman -->
-<div align="center">
-  <img src="https://github.com/andrefarizi/andrefarizi/blob/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%"/>
-</div>
+<!-- Pacman Contribution Graph -->
+## 👾 Pacman Eating My Contributions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph.svg"/>
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph-dark.svg" width="100%"/>
   </picture>
 </div>
 
