@@ -14,9 +14,9 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-<table border="0" rules="none" frame="void" cellspacing="0" cellpadding="15">
-<tr>
-<td valign="middle">
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="340" alt="Hacker GIF"/>
+
+<br/><br/><br/>
 
 ```python
 class Andre:
@@ -38,12 +38,7 @@ me = Andre()
 me.say_hi()
 ```
 
-</td>
-<td valign="middle">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" alt="Hacker GIF"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
