@@ -6,8 +6,6 @@
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%91%8B+Halo!+Saya+Andre+Al+Farizi+Sebayang;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=andrefarizi&label=Profile%20views&color=06d6a0&style=for-the-badge" />
 
 </div>
 
