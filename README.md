@@ -1,16 +1,142 @@
-## Hi there 👋
+<div align="center">
+  
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:06d6a0&height=220&section=header&text=Andre%20Al%20Farizi%20Sebayang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=18&descAlignY=55&descColor=06d6a0"/>
 
-<!--
-**andrefarizi/andrefarizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%91%8B+Halo!+Saya+Andre+Al+Farizi+Sebayang;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=andrefarizi&label=Profile%20views&color=06d6a0&style=for-the-badge" alt="Profile Views"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<!-- About Me -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+
+```python
+class Andre:
+    def __init__(self):
+        self.name = "Andre Al Farizi Sebayang"
+        self.role = "Full Stack Developer"
+        self.languages = ["Python", "Java", "PHP", "JavaScript", "C++", "C"]
+        self.frameworks = ["Laravel", "Tailwind CSS"]
+        self.currently_learning = "Always something new! 🚀"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something awesome together!")
+
+me = Andre()
+me.say_hi()
+```
+
+---
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🔤 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### ⚙️ Framework & Tools
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+</div>
+
+---
+
+<!-- Pacman Line Divider -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
+</div>
+
+---
+
+<!-- Pacman -->
+<div align="center">
+  <img src="https://github.com/andrefarizi/andrefarizi/blob/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/pacman-contribution-graph.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andrefarizi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=06d6a0&icon_color=00b4d8&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrefarizi&theme=radical&hide_border=true&background=0d1117&ring=06d6a0&fire=00b4d8&currStreakLabel=06d6a0" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefarizi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=06d6a0&text_color=ffffff&langs_count=10" alt="Top Languages"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrefarizi&bg_color=0d1117&color=06d6a0&line=00b4d8&point=ffffff&area_color=06d6a0&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<!-- Snake Animation -->
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/andrefarizi/andrefarizi/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+<!-- Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrefarizi&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  
+### 🤝 Let's Connect!
+
+<a href="https://github.com/andrefarizi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:06d6a0&height=120&section=footer"/>
