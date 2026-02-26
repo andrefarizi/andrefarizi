@@ -40,7 +40,7 @@ me.say_hi()
 
 </td>
 <td valign="top" width="40%" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding GIF"/>
 </td>
 </tr>
 </table>
