@@ -18,7 +18,7 @@
 class Andre:
     def __init__(self):
         self.name        = "Andre Al Farizi Sebayang"
-        self.role        = "Aspiring Software Engineer"
+        self.role        = "Full Stack Developer"
         self.university  = "Universitas Sumatera Utara"
         self.major       = "Information Technology"
         self.languages   = ["Python", "Java", "PHP", "JavaScript", "C++", "C"]
