@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:06d6a0&height=220&section=header&text=Andre%20Al%20Farizi%20Sebayang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=18&descAlignY=55&descColor=06d6a0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00b4d8,100:06d6a0&height=200&section=header&text=Andre%20Al%20Farizi%20Sebayang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=18&descAlignY=55&descColor=06d6a0"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%91%8B+Halo!+Saya+Andre+Al+Farizi+Sebayang;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -123,4 +123,4 @@ me.say_hi()
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:06d6a0&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00b4d8,100:06d6a0&height=150&section=footer"/>
