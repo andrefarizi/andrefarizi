@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:3a0ca3,100:7209b7&height=220&section=header&text=Andre%20Al%20Farizi%20Sebayang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=18&descAlignY=60&descColor=b5a0ff"/>
+<img width="100%" src="./assets/banner.svg" alt="Andre Al Farizi Sebayang"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%91%8B+Halo!+Saya+Andre+Al+Farizi+Sebayang;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -14,36 +14,36 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-<table>
-<tr>
-<td valign="middle" width="60%">
-
 ```python
 class Andre:
     def __init__(self):
-        self.name = "Andre Al Farizi Sebayang"
-        self.role = "Full Stack Developer"
-        self.languages = [
-            "Python", "Java", "PHP",
-            "JavaScript", "C++", "C"
+        self.name        = "Andre Al Farizi Sebayang"
+        self.role        = "Aspiring Software Engineer"
+        self.university  = "Universitas Sumatera Utara"
+        self.major       = "Information Technology"
+        self.languages   = ["Python", "Java", "PHP", "JavaScript", "C++", "C"]
+        self.frameworks  = ["Laravel", "Tailwind CSS"]
+        self.interests   = [
+            "Problem Solving",
+            "Learning New Tech Stacks",
+            "Building Cool Stuff",
         ]
-        self.frameworks = ["Laravel", "Tailwind CSS"]
+        self.goal        = "Become a great Software Engineer 🎯"
         self.currently_learning = "Always something new! 🚀"
-    
+
     def say_hi(self):
         print("Thanks for dropping by!")
-        print("Let's build something awesome!")
+        print("I love tackling challenging problems through code.")
+        print("Always excited to explore and learn new technologies!")
+        print("Let's build something awesome together! 💻")
 
 me = Andre()
 me.say_hi()
 ```
 
-</td>
-<td valign="middle" align="center" width="40%">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="320" alt="Hacker GIF"/>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="420" alt="Hacker GIF"/>
+</div>
 
 ---
 
@@ -123,4 +123,4 @@ me.say_hi()
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7209b7,60:3a0ca3,100:0d1117&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,50:023e8a,100:000d1f&height=6&section=footer"/>

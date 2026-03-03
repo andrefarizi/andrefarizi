@@ -1,0 +1,128 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background gradient: dark space -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00040f"/>
+      <stop offset="40%" stop-color="#000d1f"/>
+      <stop offset="100%" stop-color="#000814"/>
+    </linearGradient>
+    <!-- Blue nebula glow (center) -->
+    <radialGradient id="nebula1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0077b6" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#023e8a" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#000814" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Secondary nebula (left) -->
+    <radialGradient id="nebula2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0096c7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#000814" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Text glow filter -->
+    <filter id="textGlow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Soft glow for crystals -->
+    <filter id="crystalGlow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="280" fill="url(#bgGrad)"/>
+
+  <!-- Stars (small dots scattered) -->
+  <circle cx="42" cy="18" r="1" fill="white" fill-opacity="0.6"/>
+  <circle cx="130" cy="55" r="1.2" fill="white" fill-opacity="0.5"/>
+  <circle cx="210" cy="22" r="0.8" fill="white" fill-opacity="0.7"/>
+  <circle cx="310" cy="40" r="1" fill="white" fill-opacity="0.4"/>
+  <circle cx="390" cy="12" r="1.2" fill="white" fill-opacity="0.6"/>
+  <circle cx="480" cy="35" r="0.8" fill="white" fill-opacity="0.8"/>
+  <circle cx="560" cy="18" r="1" fill="white" fill-opacity="0.5"/>
+  <circle cx="650" cy="48" r="1.2" fill="white" fill-opacity="0.4"/>
+  <circle cx="740" cy="25" r="0.8" fill="#90e0ef" fill-opacity="0.7"/>
+  <circle cx="820" cy="14" r="1" fill="white" fill-opacity="0.6"/>
+  <circle cx="900" cy="38" r="1.2" fill="white" fill-opacity="0.5"/>
+  <circle cx="980" cy="20" r="0.8" fill="white" fill-opacity="0.7"/>
+  <circle cx="1060" cy="45" r="1" fill="white" fill-opacity="0.4"/>
+  <circle cx="1140" cy="16" r="1.2" fill="white" fill-opacity="0.6"/>
+  <circle cx="70" cy="240" r="1" fill="white" fill-opacity="0.5"/>
+  <circle cx="170" cy="255" r="1.2" fill="white" fill-opacity="0.4"/>
+  <circle cx="260" cy="245" r="0.8" fill="white" fill-opacity="0.6"/>
+  <circle cx="360" cy="262" r="1" fill="white" fill-opacity="0.7"/>
+  <circle cx="460" cy="248" r="1.2" fill="white" fill-opacity="0.5"/>
+  <circle cx="550" cy="265" r="0.8" fill="white" fill-opacity="0.4"/>
+  <circle cx="680" cy="250" r="1" fill="white" fill-opacity="0.6"/>
+  <circle cx="770" cy="268" r="1.2" fill="white" fill-opacity="0.5"/>
+  <circle cx="870" cy="252" r="0.8" fill="white" fill-opacity="0.7"/>
+  <circle cx="970" cy="260" r="1" fill="white" fill-opacity="0.4"/>
+  <circle cx="1070" cy="248" r="1.2" fill="white" fill-opacity="0.6"/>
+  <circle cx="1160" cy="258" r="0.8" fill="white" fill-opacity="0.5"/>
+
+  <!-- Blue nebula glow (center) -->
+  <ellipse cx="600" cy="140" rx="480" ry="160" fill="url(#nebula1)"/>
+  <!-- Secondary nebula offset left -->
+  <ellipse cx="300" cy="130" rx="280" ry="130" fill="url(#nebula2)"/>
+  <!-- Subtle right nebula -->
+  <ellipse cx="950" cy="155" rx="220" ry="100" fill="url(#nebula2)" fill-opacity="0.6"/>
+
+  <!-- Crystal / glass triangle fragments scattered -->
+  <!-- Top-left area -->
+  <polygon points="55,68 80,42 95,75" fill="#48cae4" fill-opacity="0.18" stroke="#90e0ef" stroke-width="0.8" stroke-opacity="0.7" filter="url(#crystalGlow)"/>
+  <polygon points="110,25 130,8 145,32" fill="#0096c7" fill-opacity="0.15" stroke="#ade8f4" stroke-width="0.7" stroke-opacity="0.6"/>
+  <polygon points="28,120 52,100 60,128" fill="#caf0f8" fill-opacity="0.1" stroke="#90e0ef" stroke-width="0.8" stroke-opacity="0.5"/>
+  <polygon points="80,158 108,135 118,162" fill="#48cae4" fill-opacity="0.14" stroke="#ade8f4" stroke-width="0.7" stroke-opacity="0.6"/>
+  <polygon points="18,200 42,180 50,208" fill="#0096c7" fill-opacity="0.12" stroke="#90e0ef" stroke-width="0.6" stroke-opacity="0.5"/>
+  <polygon points="145,88 165,65 178,92" fill="#caf0f8" fill-opacity="0.1" stroke="#ade8f4" stroke-width="0.8" stroke-opacity="0.7" filter="url(#crystalGlow)"/>
+
+  <!-- Top-right area -->
+  <polygon points="1090,55 1118,32 1132,60" fill="#48cae4" fill-opacity="0.18" stroke="#90e0ef" stroke-width="0.8" stroke-opacity="0.7" filter="url(#crystalGlow)"/>
+  <polygon points="1050,22 1072,5 1085,28" fill="#0096c7" fill-opacity="0.15" stroke="#ade8f4" stroke-width="0.7" stroke-opacity="0.6"/>
+  <polygon points="1140,110 1162,88 1175,115" fill="#caf0f8" fill-opacity="0.1" stroke="#90e0ef" stroke-width="0.8" stroke-opacity="0.5"/>
+  <polygon points="1010,78 1035,55 1048,82" fill="#48cae4" fill-opacity="0.14" stroke="#ade8f4" stroke-width="0.7" stroke-opacity="0.6"/>
+  <polygon points="1070,148 1095,128 1108,155" fill="#0096c7" fill-opacity="0.12" stroke="#90e0ef" stroke-width="0.6" stroke-opacity="0.5" filter="url(#crystalGlow)"/>
+  <polygon points="1155,168 1178,145 1192,172" fill="#caf0f8" fill-opacity="0.1" stroke="#ade8f4" stroke-width="0.8" stroke-opacity="0.7"/>
+
+  <!-- Bottom-left -->
+  <polygon points="30,238 58,215 68,242" fill="#48cae4" fill-opacity="0.16" stroke="#90e0ef" stroke-width="0.8" stroke-opacity="0.6"/>
+  <polygon points="100,260 125,240 138,265" fill="#0096c7" fill-opacity="0.14" stroke="#ade8f4" stroke-width="0.7" stroke-opacity="0.5"/>
+  <polygon points="165,220 188,200 200,226" fill="#caf0f8" fill-opacity="0.1" stroke="#90e0ef" stroke-width="0.8" stroke-opacity="0.5" filter="url(#crystalGlow)"/>
+
+  <!-- Bottom-right -->
+  <polygon points="1020,235 1048,212 1060,240" fill="#48cae4" fill-opacity="0.16" stroke="#90e0ef" stroke-width="0.8" stroke-opacity="0.6"/>
+  <polygon points="1090,258 1115,238 1128,263" fill="#0096c7" fill-opacity="0.14" stroke="#ade8f4" stroke-width="0.7" stroke-opacity="0.5"/>
+  <polygon points="1145,215 1170,195 1182,222" fill="#caf0f8" fill-opacity="0.1" stroke="#90e0ef" stroke-width="0.8" stroke-opacity="0.5"/>
+
+  <!-- Mid scattered -->
+  <polygon points="235,195 258,172 272,198" fill="#48cae4" fill-opacity="0.12" stroke="#90e0ef" stroke-width="0.7" stroke-opacity="0.5"/>
+  <polygon points="940,190 965,168 978,195" fill="#48cae4" fill-opacity="0.12" stroke="#90e0ef" stroke-width="0.7" stroke-opacity="0.5"/>
+  <polygon points="190,60 212,38 226,65" fill="#0096c7" fill-opacity="0.1" stroke="#ade8f4" stroke-width="0.6" stroke-opacity="0.5"/>
+  <polygon points="995,52 1018,30 1032,58" fill="#0096c7" fill-opacity="0.1" stroke="#ade8f4" stroke-width="0.6" stroke-opacity="0.5"/>
+
+  <!-- Main text: Name -->
+  <text
+    x="600" y="135"
+    font-family="'Segoe UI', Arial, sans-serif"
+    font-size="52"
+    font-weight="800"
+    fill="white"
+    text-anchor="middle"
+    letter-spacing="2"
+    filter="url(#textGlow)"
+  >Andre Al Farizi Sebayang</text>
+
+  <!-- Decorative line below name -->
+  <rect x="420" y="148" width="360" height="2" rx="1" fill="#0096c7" fill-opacity="0.7"/>
+
+  <!-- Subtitle -->
+  <text
+    x="600" y="185"
+    font-family="'Segoe UI', Arial, sans-serif"
+    font-size="18"
+    font-weight="400"
+    fill="#90e0ef"
+    text-anchor="middle"
+    letter-spacing="4"
+  >FULL STACK DEVELOPER  |  CODE ENTHUSIAST</text>
+</svg>
