@@ -42,7 +42,7 @@ me.say_hi()
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="420" alt="Hacker GIF"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="520" alt="Hacker GIF"/>
 </div>
 
 ---
