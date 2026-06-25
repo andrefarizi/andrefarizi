@@ -15,30 +15,27 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
 ```python
-class Andre:
-    def __init__(self):
-        self.name        = "Andre Al Farizi Sebayang"
-        self.role        = "Full Stack Developer"
-        self.university  = "Universitas Sumatera Utara"
-        self.major       = "Information Technology"
-        self.languages   = ["Python", "Java", "PHP", "JavaScript", "C++", "C"]
-        self.frameworks  = ["Laravel", "Tailwind CSS"]
-        self.interests   = [
-            "Problem Solving",
-            "Learning New Tech Stacks",
-            "Building Cool Stuff",
-        ]
-        self.goal        = "Become a great Software Engineer 🎯"
-        self.currently_learning = "Always something new! 🚀"
+Andre = {
+  "name": "Andre Al Farizi Sebayang",
+  "role": "Full Stack Developer",
+  "university": "Universitas Sumatera Utara",
+  "major": "Information Technology",
+  "languages": ["Python", "Java", "PHP", "JavaScript", "TypeScript", "C++", "C"],
+  "frameworks": ["Laravel", "Next.js", "Tailwind CSS"],
+  "databases": ["PostgreSQL"],
+  "interests": [
+    "Problem Solving",
+    "Learning New Tech Stacks",
+    "Building Cool Stuff",
+  ],
+  "goal": "Become a great Software Engineer 🎯",
+  "currently_learning": "Always something new! 🚀",
+}
 
-    def say_hi(self):
-        print("Thanks for dropping by!")
-        print("I love tackling challenging problems through code.")
-        print("Always excited to explore and learn new technologies!")
-        print("Let's build something awesome together! 💻")
-
-me = Andre()
-me.say_hi()
+print("Thanks for dropping by!")
+print("I love tackling challenging problems through code.")
+print("Always excited to explore and learn new technologies!")
+print("Let's build something awesome together! 💻")
 ```
 
 <div align="center">
@@ -58,6 +55,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 </p>
@@ -66,7 +64,13 @@ me.say_hi()
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 ### ⚙️ Framework & Tools
